@@ -1,0 +1,24 @@
+{
+  "name": "epanet.js-and-swmm",
+  "version": "1.0.0",
+  "description": "epanet.js and swmm.js\r =====================",
+  "main": "epanet.js",
+  "scripts": {
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikegdivs/epanet.js-and-swmm.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikegdivs/epanet.js-and-swmm.js/issues"
+  },
+  "homepage": "https://github.com/ikegdivs/epanet.js-and-swmm.js#readme"
+}
